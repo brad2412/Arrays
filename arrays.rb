@@ -18,3 +18,4 @@ variable.unshift(False)
 #For example "Josh" would be in index postion 0 or Name [0]
 # and Chris would be 3 or Name [3]
 
+#Shuffle! (Name.shuffle!) Would shuffle all the elements inside the name brackets.
